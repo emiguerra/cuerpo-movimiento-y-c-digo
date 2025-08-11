@@ -1,2 +1,2 @@
-# cuerpo-movimiento-y-c-digo
+# cuerpo-movimiento-y-codigo
 curso especialización 
